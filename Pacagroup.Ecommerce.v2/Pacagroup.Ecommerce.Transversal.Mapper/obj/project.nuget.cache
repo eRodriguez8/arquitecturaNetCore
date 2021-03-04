@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "75os+6fCPDmXC2UsYYQfy+nByikCCAJrtsVlulgHsaPVz4Qq72dj3cIjMHBFnkCq7+udODHfK2xssA2XJfGHeg==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex Espejo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Alex Espejo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Alex Espejo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

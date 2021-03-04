@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2NM60PxH33YkFYbCoTvTzTQEQvr9Ft04qKQc3iOOL4711Oeo42qNTUmlPNCQy4AYKs1mwwDz+UZd6K57bodB7g==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Main\\Pacagroup.Ecommerce.Application.Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex Espejo\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\Alex Espejo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Alex Espejo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
